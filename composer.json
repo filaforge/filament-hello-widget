@@ -1,5 +1,5 @@
 {
-    "name": "filaforge/filament-hello-widget"]*",
+    "name": "filaforge/filament-hello-widget",
   "version": "0.1.0",
     "description": "Example Filament panel plugin: Hello Widget",
     "type": "library",
