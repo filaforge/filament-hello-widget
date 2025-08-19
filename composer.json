@@ -1,6 +1,6 @@
 {
     "name": "filament/hello-widget",
-  "version": "0.1.0",
+  "version": "0.1.2",
     "description": "Example Filament panel plugin: Hello Widget",
     "type": "library",
     "license": "MIT",
